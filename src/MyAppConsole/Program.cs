@@ -6,7 +6,7 @@ namespace MyAppConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello derp!");
+            Console.WriteLine("Hello derp 1.0.0!");
         }
     }
 }
